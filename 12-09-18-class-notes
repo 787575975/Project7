@@ -1,0 +1,38 @@
+12-09-18 class notes
+
+
+Intellij
+
+Nested Class: A class inside another class.
+
+
+Array vs ArrayList
+
+List
+
+Iterator
+for each loop
+
+Data Structure:
+
+1)Array
+2)ArrayList
+3)LinkedList
+4)Stack
+5)Queue
+6)Tree
+7)HashMap/HashTable
+8)Graph
+
+
+LinkedList: SinglyLinkedList, DoublyLinkedList
+
+Adding and deleting are faster in LinkedList
+
+Accessing faster in ArrayList
+
+Next Week:
+
+Searching Algo.
+
+Download n Install Oracle 0r MySql and MongoDB
